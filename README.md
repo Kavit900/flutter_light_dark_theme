@@ -1,16 +1,20 @@
 # flutter_dark_light_theme
 
-A new Flutter project.
+A Flutter application to implement dark and light theme
 
-## Getting Started
+# Youtube Link
+https://youtu.be/UG2kRv6Cu58
 
-This project is a starting point for a Flutter application.
+# About Me
 
-A few resources to get you started if this is your first Flutter project:
+Hi Folks! I am Kavit, a software engineer with a passion for teaching.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Please follow me and show your support, so that I can keep bringing this type of content.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📹 YouTube: https://www.youtube.com/channel/UCV-_hzlbVSlobkekurpLOZw/featured
+
+📸 Instagram: https://www.instagram.com/code_with_kavit/
+
+📂 Github: https://github.com/Kavit900
+
+💻 Discord: https://discord.gg/V3rhXEPe
